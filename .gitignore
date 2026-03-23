@@ -1,0 +1,10 @@
+.venv/
+node_modules/
+test-results/
+reports/
+__pycache__/
+*.pyc
+.env
+.env.example
+.DS_Store
+.claude/
